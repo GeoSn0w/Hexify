@@ -1,0 +1,9 @@
+C:\Users\Geo\documents\visual studio 2015\Projects\Hexify\Hexify\bin\Release\Hexify.exe.config
+C:\Users\Geo\documents\visual studio 2015\Projects\Hexify\Hexify\bin\Release\Hexify.exe
+C:\Users\Geo\documents\visual studio 2015\Projects\Hexify\Hexify\bin\Release\Hexify.pdb
+C:\Users\Geo\documents\visual studio 2015\Projects\Hexify\Hexify\obj\Release\Hexify.Form1.resources
+C:\Users\Geo\documents\visual studio 2015\Projects\Hexify\Hexify\obj\Release\Hexify.Properties.Resources.resources
+C:\Users\Geo\documents\visual studio 2015\Projects\Hexify\Hexify\obj\Release\Hexify.csproj.GenerateResource.Cache
+C:\Users\Geo\documents\visual studio 2015\Projects\Hexify\Hexify\obj\Release\Hexify.exe
+C:\Users\Geo\documents\visual studio 2015\Projects\Hexify\Hexify\obj\Release\Hexify.pdb
+C:\Users\Geo\Documents\Visual Studio 2015\Projects\Hexify\Hexify\obj\Release\Hexify.csprojResolveAssemblyReference.cache
